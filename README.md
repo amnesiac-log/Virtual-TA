@@ -155,7 +155,7 @@ This project implements a production-ready **Retrieval-Augmented Generation (RAG
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/virtual-ta-rag-system.git
+git clone https://github.com/amnesiac-log/Virtual-TA.git
 cd virtual-ta-rag-system
 ```
 
